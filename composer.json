@@ -1,5 +1,5 @@
 {
-    "name": "microsoftgraph/mailapi",
+    "name": "microsoftgraph/mail_api_php",
     "description": "This is an api to send emails through microsoftGraph API",
     "type": "library",
     "authors": [

@@ -1,5 +1,5 @@
 {
-    "name": "microsoftgraph/mail_api_php",
+    "name": "microsoftgraph/mailapi",
     "description": "This is an api to send emails through microsoftGraph API",
     "type": "library",
     "authors": [
@@ -11,6 +11,7 @@
     "require": {
         "php": ">=5.3.0"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "MicrosoftGraph": "src/"
